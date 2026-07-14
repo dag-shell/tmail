@@ -1,6 +1,6 @@
 {
   "name": "@dag_shell/tmail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to generate temporary email addresses and watch for incoming messages on top of tempmail.lol api",
   "repository": {
     "type": "git",
