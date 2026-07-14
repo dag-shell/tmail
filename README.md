@@ -2,6 +2,10 @@
 
 Simple CLI for tempmail.lol - generate temporary email addresses and watch for incoming messages.
 
+
+https://github.com/user-attachments/assets/f0812700-a1d7-4317-b7f5-526f14cfadee
+
+
 ## Installation
 
 ```bash
