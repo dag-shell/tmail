@@ -1,0 +1,26 @@
+{
+  "name": "@dag_shell/tmail",
+  "version": "1.0.0",
+  "description": "Simple CLI for tempmail.lol",
+  "bin": {
+    "tmail": "./bin/tmail.js"
+  },
+  "type": "commonjs",
+  "files": [
+    "bin"
+  ],
+  "keywords": [
+    "tmail",
+    "temp-mail",
+    "temp-mail-generator",
+    "temporary-email",
+    "tempmail.lol",
+    "email",
+    "temporary-email",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tempmail.lol": "^4.4.0"
+  }
+}
