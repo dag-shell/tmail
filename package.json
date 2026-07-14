@@ -1,7 +1,15 @@
 {
   "name": "@dag_shell/tmail",
   "version": "1.0.0",
-  "description": "Simple CLI for tempmail.lol",
+  "description": "CLI tool to generate temporary email addresses and watch for incoming messages on top of tempmail.lol api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dag-shell/tmail.git"
+  },
+  "homepage": "https://github.com/dag-shell/tmail#readme",
+  "bugs": {
+    "url": "https://github.com/dag-shell/tmail/issues"
+  },
   "bin": {
     "tmail": "./bin/tmail.js"
   },
